@@ -30,6 +30,11 @@ namespace EmployeeInfoDatabaseGroupStudy.BLL
         {
 
             return gateway.GetDesignation();
-        } 
+        }
+        /*Adding Code for Updating */
+        
+        
+        
+        
     }
 }
